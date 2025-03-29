@@ -33,22 +33,4 @@ A **Calculadora IMC** é um aplicativo Android desenvolvido em Java que calcula 
    ```bash
    git clone https://github.com/guilhermylg/CalculadoraIMC.git
 ## Estrutura do Projeto
-CalculadoraIMC/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/guilhermylg/calculadoraimc/
-│   │   │   │   ├── MainActivity.java
-│   │   │   │   ├── CalculoIMCActivity.java
-│   │   │   │   ├── AbaixoDoPesoActivity.java
-│   │   │   │   ├── PesoNormalActivity.java
-│   │   │   │   ├── SobrepesoActivity.java
-│   │   │   │   ├── Obesidade1Activity.java
-│   │   │   │   ├── Obesidade2Activity.java
-│   │   │   │   └── Obesidade3Activity.java
-│   │   │   ├── res/
-│   │   │   │   ├── layout/  (Arquivos XML dos layouts)
-│   │   │   │   ├── values/  (strings.xml, colors.xml, etc.)
-│   │   │   │   └── drawable/ (Imagens utilizadas)
-│   │   └── AndroidManifest.xml
-└── README.md
+CalculadoraIMC/ ├── app/ │ ├── src/ │ │ └── main/ │ │ ├── java/com/guilhermylg/calculadoraimc/ │ │ │ ├── MainActivity.java │ │ │ ├── CalculoIMCActivity.java │ │ │ ├── AbaixoDoPesoActivity.java │ │ │ ├── PesoNormalActivity.java │ │ │ ├── SobrepesoActivity.java │ │ │ ├── Obesidade1Activity.java │ │ │ ├── Obesidade2Activity.java │ │ │ └── Obesidade3Activity.java │ │ ├── res/ │ │ │ ├── layout/ # Arquivos XML dos layouts │ │ │ ├── values/ # strings.xml, colors.xml, etc. │ │ │ └── drawable/ # Imagens utilizadas │ │ └── AndroidManifest.xml └── README.md
