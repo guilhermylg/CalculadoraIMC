@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nome do aplicativo -->
+    <string name="app_name">Calculadora IMC</string>
+
+    <!-- Botões -->
+    <string name="botao_calculadora">Calculadora IMC</string>
+    <string name="botao_calcular">Calcular IMC</string>
+    <string name="botao_limpar">Limpar</string>
+    <string name="botao_fechar">Fechar</string>
+
+    <!-- Labels -->
+    <string name="label_peso">Peso</string>
+    <string name="label_altura">Altura</string>
+    <string name="label_imc">IMC</string>
+    <string name="label_classificacao">Classificação</string>
+
+    <!-- Mensagens de feedback -->
+    <string name="msg_motivacional_abaixo">Você está abaixo do peso. Continue se cuidando e se alimentando bem!</string>
+    <string name="msg_motivacional_normal">Parabéns! Seu peso está normal. Continue com seus hábitos saudáveis!</string>
+    <string name="msg_motivacional_sobrepeso">Você está com sobrepeso. Pequenas mudanças podem fazer uma grande diferença!</string>
+    <string name="msg_motivacional_obesidade1">Você está com obesidade grau 1. Busque melhorar seus hábitos e conte com apoio!</string>
+    <string name="msg_motivacional_obesidade2">Você está com obesidade grau 2. É importante procurar orientação para uma vida mais saudável!</string>
+    <string name="msg_motivacional_obesidade3">Você está com obesidade grau 3. Não desanime, procure ajuda e transforme sua saúde!</string>
+
+    <!-- Hints -->
+    <string name="hint_peso">Digite seu peso (kg)</string>
+    <string name="hint_altura">Digite sua altura (m)</string>
+
+    <!-- Erros -->
+    <string name="error_input">Por favor, preencha todos os campos com valores válidos.</string>
+    <string name="error_altura_zero">A altura não pode ser zero.</string>
+
+    <!-- Classificações -->
+    <string name="classificacao_abaixo">Abaixo do peso</string>
+    <string name="classificacao_normal">Peso normal</string>
+    <string name="classificacao_sobrepeso">Sobrepeso</string>
+    <string name="classificacao_obesidade1">Obesidade grau 1</string>
+    <string name="classificacao_obesidade2">Obesidade grau 2</string>
+    <string name="classificacao_obesidade3">Obesidade grau 3</string>
+</resources>
